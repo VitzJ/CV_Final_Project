@@ -20,3 +20,4 @@ bertopic
 safetensors
 opencv-python
 scikit-image
+python-dotenv
