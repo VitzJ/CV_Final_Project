@@ -1,0 +1,38 @@
+# Ignore video files
+*.mp4
+
+# Ignore archive files
+*.zip
+
+# Ignore Apache Arrow dataset files
+*.arrow
+
+# Ignore private key files
+*.pem
+
+# Ignore JSON files
+*.json
+
+# Ignore gradio chat template
+*.jinja
+
+# Ignore model safetensors
+*.safetensors
+
+# Ignore folder
+punctuation_model/
+
+# Ignore folder
+raw_original_video_dataset/
+
+.venv
+
+.gradio
+
+final_video_dataset/
+
+full_videos/
+
+video_dataset/
+
+video_zips/
