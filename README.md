@@ -25,7 +25,7 @@ This dataset is formulated in `Bert_Topic_Chunking_Full_Pipeline.ipynb` which is
 
 My python version: Python 3.12.3
 
-I used a virtual environment for this project; the requirements.txt contains the packages that I had to install in order for this project to work on my local machine. The current code also requires cuda
+I used a virtual environment for this project; the requirements.txt contains the packages that I had to install in order for this project to work on my local machine. You need a .env file with your HuggingFace Login `HF_LOGIN_CODE`='some huggingface login code' in order to run `Bert_Topic_Chunking_Full_Pipeline.ipynb` because the original dataset is locked unless you log in to huggingface on an account that you authorized to utilize the dataset.
 
 <br>
 
