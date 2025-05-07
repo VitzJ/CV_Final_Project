@@ -9,6 +9,16 @@ Notebook Name: `demonstration_without_full_videos_colab_version.ipynb`
 
 <br>
 
+# WALKTHROUGH VIDEOS
+
+Below are two walkthrough videos demonstrating my project and giving an overview of the code for both the front end method of serving chunks with Qdrant vector search + Gradio and the back end method of generating chunks with BERT-Topic informed caption merging to generate chunks.
+
+## COLAB WALKTHROUGH VIDEO: https://youtu.be/W3XossjXec8
+
+## BERT TOPIC CHUNKING METHOD WALKTHROUGH VIDEO: https://youtu.be/gGsfwtnjE80
+
+<br>
+
 ## My Dataset:
 
 I created a dataset to preserve my custom segmentations which can be found via the link below:
