@@ -36,3 +36,5 @@ full_videos/
 video_dataset/
 
 video_zips/
+
+.env
