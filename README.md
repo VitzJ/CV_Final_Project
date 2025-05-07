@@ -2,12 +2,10 @@
 
 To conveniently check the output of my work without having to pull the repository and follow the setup instructions, please access the google colab version of the front-end file serving component of my project.
 
-Notebook Name: `demonstration_without_full_videos_colab_version.ipynb`
-Colab Link: https://colab.research.google.com/drive/1T7lFV7xyOlWHkG1KkKEBnuvrpVgjGF3a?usp=sharing
-
-This notebook is the same as the colab version. It requires a single change with respect to `moviepy` package usage as the only real difference between how the colab notebook functions versus how my actual repo functions.
-
 ## IMPORTANT: YOU MUST RUN THE PIP INSTALL BUBBLE ONCE, AND THEN RESTART THE NOTEBOOK SESSION (Navigate to Runtime -> Restart Session). IF YOU DO NOT DO THIS, FFMPEG WILL NOT BE PROPERLY UTILIZED BY THE VIDEO SPLITTER DURING RETRIEVAL
+
+Colab Link: https://colab.research.google.com/drive/1T7lFV7xyOlWHkG1KkKEBnuvrpVgjGF3a?usp=sharing
+Notebook Name: `demonstration_without_full_videos_colab_version.ipynb`
 
 <br>
 
